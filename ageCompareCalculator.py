@@ -1,0 +1,5 @@
+person_one = input("what is the age of the first person? ")
+print("you are " + str(person_one) + "! Good for you!")
+person_two = input("what is you're age?")
+print( str(person_two) + "! wow!")
+print( str(person_one - person_two) + "years...")
